@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="external/busybox" name="omnirom/android_external_busybox" revision="android-8.1" />
+	<project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" revision="android-8.1" />
+	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" revision="lineage-15.1" />
+	<project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="lineage-15.1" />
+	<project path="device/samsung/j3xlte" name="djeman/android_device_samsung_j3xlte" revision="lineage-15.1" />
+	<project path="device/samsung/j3xnlte" name="djeman/android_device_samsung_j3xnlte" revision="lineage-15.1" />
+	<project path="kernel/samsung/sharkls-common" name="djeman/android_kernel_samsung_sharkls-common" revision="lineage-15.1" />
+	<project path="kernel/samsung/sharkls" name="djeman/android_kernel_samsung_sharkls" revision="lineage-15.1" />
+	<project path="vendor/samsung/common" name="djeman/android_vendor_samsung_common" revision="lineage-15.1" />
+	<project path="vendor/sprd" name="djeman/android_vendor_sprd" revision="lineage-15.1" />
+</manifest>
